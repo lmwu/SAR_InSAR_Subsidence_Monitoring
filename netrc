@@ -1,2 +1,1 @@
-#放在根目錄 .netrc
-machine urs.earthdata.nasa.gov login limouwu1031 password RGS480!qfk750
+machine urs.earthdata.nasa.gov login <ASF account> password <Password>
